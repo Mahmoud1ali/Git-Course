@@ -1,2 +1,2 @@
 # Git-Course
-for learn git an github 
+for learn git and github 
